@@ -91,6 +91,7 @@ public class Product {
     }
 
     public Set<OrderItem> getItems() {
+
         return items;
     }
     public List<Order> getOrders() {
